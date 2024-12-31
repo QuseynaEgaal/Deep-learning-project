@@ -116,10 +116,3 @@ The report should contain the following:
 
 - - -
 
-## Rubric
-
-[Unit 21 Homework Rubric](https://docs.google.com/document/d/1SLOROX0lqZwa1ms-iRbHMQr1QSsMT2k0boO9YpFBnHA/edit?usp=sharing)
-
-- - - 
-
-© 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.	
