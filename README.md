@@ -1,5 +1,5 @@
 # Deep_Learning_Challenge
-# Unit 21 Homework: Charity Funding Predictor
+# Charity Funding Predictor
 
 ## Background
 
